@@ -24,6 +24,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" title="Python" height="30" width="40" >
 </div>
 
+### Badges
+<div>
+    <img src="https://i.imgur.com/scvxTlW.png" align="center" alt="Bagde One" title="Badge Amigo Secreto" height="30" width="40" >
+</div>
+
 ## Social
 <div>
     <a href="adamrpdiass@hotmail.com" target="_blank">
