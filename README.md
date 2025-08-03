@@ -21,7 +21,7 @@
 
 ### Also
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" title="Python" height="40" width="50" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" title="Python" height="60" width="70" >
 </div>
 
 ### Badges
