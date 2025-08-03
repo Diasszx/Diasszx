@@ -21,12 +21,12 @@
 
 ### Also
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" title="Python" height="60" width="70" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" title="Python" height="40" width="50" >
 </div>
 
 ### Badges
 <div>
-    <img src="https://i.imgur.com/scvxTlW.png" align="center" alt="Bagde One" title="Badge Amigo Secreto One" height="40" width="50" >
+    <img src="https://i.imgur.com/scvxTlW.png" align="center" alt="Bagde One" title="Badge Amigo Secreto One" height="60" width="70" >
 </div>
 
 ## Social
