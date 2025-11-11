@@ -22,6 +22,8 @@
 ### Badges
 <div>
     <img src="https://i.imgur.com/scvxTlW.png" align="center" alt="Bagde One" title="Badge Amigo Secreto One" height="60" width="70" >
+    <img src="https://i.imgur.com/mmAAlUr.png" align="center" alt="Bagde One" title="Badge Alura Store" height="60" width="70" >
+  
 </div>
 
 ## Social
