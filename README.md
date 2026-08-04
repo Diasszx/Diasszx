@@ -99,6 +99,6 @@ Aplicação Full Stack para gerenciamento financeiro.
 
 📧 Email: adamrpdiass@hotmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/adam-ramos-ab02a3270/
+💼 LinkedIn: https://www.linkedin.com/in/adam-diass/
 
 🐙 GitHub: https://github.com/Diasszx
