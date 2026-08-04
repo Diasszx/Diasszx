@@ -1,35 +1,104 @@
-# Welcome 🚦
+# Adam Dias
+
+Full Stack Developer | React • TypeScript • Node.js • PostgreSQL
+
+Sou desenvolvedor de software com experiência no desenvolvimento de aplicações web, APIs REST e bancos de dados relacionais.
+
+Atualmente trabalho como **Técnico de Robótica no SESI**, desenvolvendo soluções voltadas para prototipagem, eletrônica embarcada e automação. Também possuo experiência profissional como **Desenvolvedor de Software**, atuando no desenvolvimento e manutenção de sistemas ERP, integrações fiscais e APIs.
+
+Tenho interesse em arquitetura de software, boas práticas de desenvolvimento, aplicações escaláveis e desenvolvimento Full Stack.
+
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+React • TypeScript • JavaScript • Tailwind CSS • TanStack Query
+
+### Back-end
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</p>
+
+Node.js • Express • PHP • REST APIs
+
+### Banco de Dados
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+PostgreSQL • MySQL • SQLite
+
+### Ferramentas
+
+Git • GitHub • GitHub Actions • Docker • Swagger/OpenAPI • Zod
+
+---
+
+# ⭐ Projetos em Destaque
+
+## Finance Track
+
+Aplicação Full Stack para gerenciamento financeiro.
+
+### Principais funcionalidades
+
+- Autenticação JWT
+- CRUD de transações
+- Dashboard financeiro
+- API REST
+- PostgreSQL
+- Documentação Swagger
+- GitHub Actions
+- Arquitetura em camadas
+- SOLID
+- Dependency Injection
+
+**Frontend:** https://github.com/Diasszx/finance-track
+
+**Backend:** https://github.com/Diasszx/finance-app-api
+
+---
+
+## Atualmente estudando
+
+- Arquitetura de Software
+- SOLID
+- Clean Architecture
+- AWS
+- Docker
+- Testes automatizados
+
+---
+
+## GitHub
 
 <div>
-  <a href="https://github.com/Diasszx">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diasszx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diasszx&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diasszx&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diasszx&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
-## Main Stack
-<div style="display: flex">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" height="30" width="40" align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" height="30" width="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" height="30" width="40" align="center">
+---
 
+## Contato
 
-  
+📧 Email: adamrpdiass@hotmail.com
 
-</div>
+💼 LinkedIn: https://www.linkedin.com/in/adam-ramos-ab02a3270/
 
-### Badges
-<div>
-    <img src="https://i.imgur.com/scvxTlW.png" align="center" alt="Bagde One" title="Badge Amigo Secreto One" height="60" width="70" >
-    <img src="https://i.imgur.com/mmAAlUr.png" align="center" alt="Bagde One" title="Badge Alura Store" height="60" width="70" >
-  
-</div>
-
-## Social
-<div>
-    <a href="adamrpdiass@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/adam-ramos-ab02a3270/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div><br>
+🐙 GitHub: https://github.com/Diasszx
