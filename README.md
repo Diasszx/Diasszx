@@ -1,6 +1,6 @@
 # Adam Dias
 
-Full Stack Developer | React • TypeScript • Node.js • PostgreSQL
+Full Stack Developer | React • NestJS • TypeScript • Node.js • PostgreSQL 
 
 Sou desenvolvedor de software com experiência no desenvolvimento de aplicações web, APIs REST e bancos de dados relacionais.
 
